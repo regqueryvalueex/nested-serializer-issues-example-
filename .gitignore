@@ -1,0 +1,19 @@
+*.sqlite3
+*.swp
+*.pyc
+*.log.*
+*.log
+*.ipynb
+.deploy
+.ipynb_checkpoints/
+settings_local.py
+settings_test.py
+settings_test_requests.py
+true
+celerybeat-schedule
+.DS_Store
+*.mo
+
+# IDE tools
+.vscode/
+.idea/

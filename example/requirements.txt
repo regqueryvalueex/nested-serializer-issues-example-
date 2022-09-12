@@ -1,0 +1,6 @@
+Django==4.1
+django-rest-framework==0.1.0
+djangorestframework==3.13.1
+djangorestframework-stubs==1.7.0
+drf-writable-nested==0.7.0
+model-bakery==1.7.0
